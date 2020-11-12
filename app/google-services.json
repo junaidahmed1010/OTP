@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "912351628869",
+    "firebase_url": "https://phoneauth-ed1a9.firebaseio.com",
+    "project_id": "phoneauth-ed1a9",
+    "storage_bucket": "phoneauth-ed1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912351628869:android:a7e9385468136ff566dd2c",
+        "android_client_info": {
+          "package_name": "com.example.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912351628869-kmqev4h50fnt6gf8n9199rvg42hift4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3B8VEJm116P8vLK6lkRi18O0PekcylIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912351628869-kmqev4h50fnt6gf8n9199rvg42hift4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
